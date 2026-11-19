@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Exequiel Santucho
-- 👀 I’m interested in Data Science and Machine Learning
-- 📫 If you want to reach me: exequiel.santucho.es@gmail.com
+Data scientist and data engineer (PhD in Engineering) working on data and ML tools for physical systems, with a focus on dam and infrastructure monitoring.
 
-<!---
-exequiel-santucho/exequiel-santucho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+At Argentina’s Dam Safety Regulatory Agency (ORSEP) I work with instrumentation time series: automated report review, forecasting, and anomaly-detection methods. I am developing Exumbra, a dam-monitoring review tool that brings these approaches together.
+
+I also build end-to-end ML and data pipelines in Python, with MLOps and GCP. Selected projects are pinned below.
+
+Open to remote Data Scientist / Data Engineer roles.
